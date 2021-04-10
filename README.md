@@ -12,7 +12,7 @@ I'm learning a lot of new things and I am looking forward to become a great web 
 I am _bringmetheaxx_ all over the internet so find me! <br> 
 
 I love to talk about pop culture, drag queens, the end of the world,<br>
-lgbtqia+ rights, books, trashy reality shows and techonology.<br>
+lgbtqia+ rights, books, trashy reality shows and technology.<br>
 My favorite things are: cooking, listening to music,<br>
 writing and being gay af. <br>
 Get more about me on: <br>
