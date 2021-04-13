@@ -11,7 +11,12 @@ I'm learning a lot of new things and I am looking forward to become a great web 
 
 I am _bringmetheaxx_ all over the internet so find me! <br> 
 
+<<<<<<< HEAD
 I love to talk about pop culture, drag queens, the end of the world,<br>
+=======
+I love cats and if you don't like cats, maybe it's time to rethink your life<br>
+I also love to talk about pop culture, drag queens, the end of the world,<br>
+>>>>>>> ffe4d4b4e0ee9e981c1522f0fac095456ea10813
 lgbtqia+ rights, books, trashy reality shows and technology.<br>
 My favorite things are: cooking, listening to music,<br>
 writing and being gay af. <br>
