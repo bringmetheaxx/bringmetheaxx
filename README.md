@@ -1,20 +1,4 @@
-<div style="background-color:#000000">
-
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Tomorrow:ital,wght@1,300&display=swap');
-</style>
-
-<span style="color:#ef0098">
-<span style="font-family:Tomorrow">
-<span style="text-align:center">
-
 # welcome to BRINGMETHEAXX 🪓
-
-</span>
-<span style="background-color:black">
-<span style="color: #00ff9f">
-<span style="font-family:Tomorrow">
-<span style="text-align:center;">
 
 the house of unemployed unicorns is glad to present you: <br>
  _**bringmetheaxx** aka Áxil Quirino_
@@ -40,5 +24,3 @@ Still want to know more about me?<br>
 Here is a [welcome to bringmetheaxx - the playlist](https://music.apple.com/be/playlist/welcome-to-bringmetheaxx/pl.u-6mo4zxWcR26Adp)
 
 ![Hello hello hello](https://media.giphy.com/media/zDGU8yBdyjP61aVySi/giphy.gif)
-</span>
-</div>
