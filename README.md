@@ -11,7 +11,6 @@ I'm learning a lot of new things and I am looking forward to become a great web 
 
 I am _bringmetheaxx_ all over the internet so find me! <br> 
 
-I love to talk about pop culture, drag queens, the end of the world,<br>
 I love cats and if you don't like cats, maybe it's time to rethink your life<br>
 I also love to talk about pop culture, drag queens, the end of the world,<br>
 lgbtqia+ rights, books, trashy reality shows and technology.<br>
