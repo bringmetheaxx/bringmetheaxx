@@ -6,9 +6,6 @@ the house of unemployed unicorns is glad to present you:<br>
 Here you'll find all the recent things that I'm doing,<br>
 which isn't that much, but stay tuned and I can surprise you!
 
-Currently I am part of the class15 of the [Hack Your Future Belgium.](https://github.com/HackYourFutureBelgium)<br>
-I'm learning a lot of new things and I am looking forward to become a great web developer.
-
 I am _bringmetheaxx_ all over the internet so find me! <br> 
 
 I love cats and if you don't like cats, maybe it's time to rethink your life<br>
